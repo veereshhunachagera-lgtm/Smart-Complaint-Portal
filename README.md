@@ -2,6 +2,15 @@
 
 A full-stack campus grievance and complaint management system built with React, TypeScript, Express, Tailwind CSS, and optional Gemini AI-assisted triage.
 
+## Live Demo
+
+Experience the application here:
+
+**[Smart Complaint Portal – Live Demo](https://smart-complaint-portal-328964223382.asia-southeast1.run.app)**
+
+The live application allows users to explore the campus complaint management system and its available features.
+
+
 ## Features
 
 - **Student Authentication & Roster Verification:** USN + password verification backed by persistent JSON storage (`db_students.json`).
