@@ -1,0 +1,93 @@
+[
+  {
+    "id": "comp_101",
+    "title": "WiFi Access Point offline in Block-B Hostel Corridor",
+    "description": "The primary wireless access point is offline for the past three days. We are unable to access study materials and online classes. Kindly fix this as early as possible.",
+    "category": "IT Department",
+    "department": "IT Support Staff",
+    "status": "Resolved",
+    "isAnonymous": false,
+    "isEscalated": false,
+    "upvotes": 8,
+    "upvotedBy": [
+      "SG24CSE164",
+      "SG24CSE152"
+    ],
+    "createdAt": "2026-11-09T16:12:09.805Z",
+    "updatedAt": "2026-11-11T16:12:09.805Z",
+    "studentUsn": "SG24CSE170",
+    "studentName": "Veeresh Reddy",
+    "studentClass": "4th Semester",
+    "studentSec": "A",
+    "adminNotes": "IT team refreshed the specific router on 2nd Floor, Block B. Access is now verified and operational.",
+    "feedback": {
+      "rating": 5,
+      "comments": "Prompt action! WiFi is working great now.",
+      "submittedAt": "2026-11-11T16:12:09.805Z"
+    }
+  },
+  {
+    "id": "comp_102",
+    "title": "Standard Reference books unavailable in Library",
+    "description": "The core text books for Computer Networks (8th edition by Tanenbaum) are very few in numbers (only 3 copies), causing high inconvenience. We request adding at least 10 more library copies.",
+    "category": "Library",
+    "department": "Library Staff",
+    "status": "In Progress",
+    "isAnonymous": false,
+    "isEscalated": false,
+    "upvotes": 14,
+    "upvotedBy": [
+      "SG24CSE170",
+      "SG24CSE152",
+      "SG24CSE173"
+    ],
+    "createdAt": "2026-11-11T16:12:09.805Z",
+    "updatedAt": "2026-11-13T04:12:09.805Z",
+    "studentUsn": "SG24CSE164",
+    "studentName": "Vaibhav",
+    "studentClass": "4th Semester",
+    "studentSec": "B",
+    "adminNotes": "Approved procurement of 12 more copies of Tanenbaum - Computer Networks. Ordered is placed, delivery expected on June 12th."
+  },
+  {
+    "id": "comp_103",
+    "title": "Emergency: senior students hostile behavior outside hostel entrance",
+    "description": "A group of senior students has been gathering outside the Block-B hostel entrance during late evening hours, causing noise and acting aggressively. We request immediate physical security patrol surveillance to keep our environment safe.",
+    "category": "Anti-Ragging",
+    "department": "Anti-Ragging Cell",
+    "status": "Under Review",
+    "isAnonymous": true,
+    "isEscalated": true,
+    "upvotes": 21,
+    "upvotedBy": [
+      "SG24CSE170",
+      "SG24CSE164",
+      "SG24CSE173"
+    ],
+    "createdAt": "2026-11-12T16:12:09.805Z",
+    "updatedAt": "2026-11-13T10:12:09.805Z",
+    "studentUsn": "SG24CSE152",
+    "studentName": "Anonymous Student",
+    "studentClass": "4th Semester",
+    "studentSec": "A",
+    "adminNotes": "Campus security supervisor alert dispatched. Patrolling scheduled between 7:30 PM & 9:30 PM daily."
+  },
+  {
+    "id": "comp_104",
+    "title": "Broken fan in Lecture Hall CR-401",
+    "description": "The second ceiling fan on row 3 is completely loose and producing standard high-frequency metallic noises when operational. Requesting early repairs to avoid a hazard.",
+    "category": "Infrastructure",
+    "department": "Estate & Maintenance",
+    "status": "Pending",
+    "isAnonymous": false,
+    "isEscalated": false,
+    "upvotes": 3,
+    "upvotedBy": [],
+    "createdAt": "2026-11-13T13:12:09.805Z",
+    "updatedAt": "2026-11-13T13:12:09.805Z",
+    "studentUsn": "SG24CSE173",
+    "studentName": "vishal",
+    "studentClass": "4th Semester",
+    "studentSec": "C"
+  }
+]

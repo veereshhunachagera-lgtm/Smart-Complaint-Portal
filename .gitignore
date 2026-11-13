@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+bun.lock
+.aistudio/
+assets/.aistudio/
+.vscode/

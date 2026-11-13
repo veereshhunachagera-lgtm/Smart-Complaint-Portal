@@ -1,0 +1,6 @@
+{
+  "name": "Smart Complaint Portal",
+  "description": "Smart complaint management system with USN verification, department-based automated routing, Gemini-assisted admin reports, public community upvoting and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

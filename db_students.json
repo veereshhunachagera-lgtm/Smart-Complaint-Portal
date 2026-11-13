@@ -1,0 +1,18 @@
+[
+  {
+    "usn": "SG24CSE170",
+    "name": "Veeresh Reddy",
+    "class": "4th Semester",
+    "section": "C",
+    "department": "Computer Science & Engineering",
+    "password": "123456"
+  },
+  {
+    "usn": "SG24CSE1223",
+    "name": "veerbhadra",
+    "class": "4th Semester",
+    "section": "A",
+    "department": "Computer Science & Engineering",
+    "password": "123456"
+  }
+]
